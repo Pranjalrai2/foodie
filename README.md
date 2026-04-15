@@ -1,6 +1,6 @@
 # Foodie - Complete MERN Food Delivery Plateform
 
-A production-ready food delivery website built with React, Node.js, Express, and MongoDB.
+A full-stack food delivery platform built using MERN stack with authentication, cart system, and real-time order tracking.
 
 ## Features
 - **User Authentication**: Secure register/login with JWT stored in httpOnly cookies.
